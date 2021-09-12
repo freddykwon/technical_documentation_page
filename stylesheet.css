@@ -1,7 +1,7 @@
 body {
   min-width: 290px;
   background-color: white;
-  font-family: Space Grotesk;
+  font-family: 'Space Grotesk', sans-serif;
   line-height: 1.5;
 }
 #navbar {
